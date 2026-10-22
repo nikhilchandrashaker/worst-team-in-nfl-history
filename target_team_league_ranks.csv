@@ -1,0 +1,15 @@
+season,team,metric,value,league_rank_1_best,teams_in_league,source_url
+2008,Detroit Lions,points_for,268.0,27,32,https://www.pro-football-reference.com/years/2008/index.htm
+2008,Detroit Lions,points_against,517.0,32,32,https://www.pro-football-reference.com/years/2008/index.htm
+2008,Detroit Lions,point_diff,-249.0,32,32,https://www.pro-football-reference.com/years/2008/index.htm
+2008,Detroit Lions,simple_rating_system_srs,-13.11,31,32,https://www.pro-football-reference.com/years/2008/index.htm
+2008,Detroit Lions,offensive_srs_osrs,-4.0,26,32,https://www.pro-football-reference.com/years/2008/index.htm
+2008,Detroit Lions,defensive_srs_dsrs,-9.1,32,32,https://www.pro-football-reference.com/years/2008/index.htm
+2008,Detroit Lions,wins,0.0,32,32,https://www.pro-football-reference.com/years/2008/index.htm
+2017,Cleveland Browns,points_for,234.0,32,32,https://www.pro-football-reference.com/years/2017/index.htm
+2017,Cleveland Browns,points_against,410.0,31,32,https://www.pro-football-reference.com/years/2017/index.htm
+2017,Cleveland Browns,point_diff,-176.0,32,32,https://www.pro-football-reference.com/years/2017/index.htm
+2017,Cleveland Browns,simple_rating_system_srs,-10.95,32,32,https://www.pro-football-reference.com/years/2017/index.htm
+2017,Cleveland Browns,offensive_srs_osrs,-6.8,32,32,https://www.pro-football-reference.com/years/2017/index.htm
+2017,Cleveland Browns,defensive_srs_dsrs,-4.1,31,32,https://www.pro-football-reference.com/years/2017/index.htm
+2017,Cleveland Browns,wins,0.0,32,32,https://www.pro-football-reference.com/years/2017/index.htm

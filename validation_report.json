@@ -1,0 +1,48 @@
+{
+  "checks": [
+    {
+      "check": "only_two_target_seasons",
+      "passed": true,
+      "detail": "[(2008, 'DET'), (2017, 'CLE')]"
+    },
+    {
+      "check": "game_log_32_rows",
+      "passed": true,
+      "detail": "32"
+    },
+    {
+      "check": "each_team_16_games",
+      "passed": true,
+      "detail": "{(2008, 'DET'): 16, (2017, 'CLE'): 16}"
+    },
+    {
+      "check": "2008_DET_season_totals",
+      "passed": true,
+      "detail": "expected PF/PA/PD=268/517/-249"
+    },
+    {
+      "check": "2008_DET_game_sums",
+      "passed": true,
+      "detail": "PF/PA sums=268/517"
+    },
+    {
+      "check": "2017_CLE_season_totals",
+      "passed": true,
+      "detail": "expected PF/PA/PD=234/410/-176"
+    },
+    {
+      "check": "2017_CLE_game_sums",
+      "passed": true,
+      "detail": "PF/PA sums=234/410"
+    },
+    {
+      "check": "only_target_season_rows_player",
+      "passed": true,
+      "detail": "{(2017, 'CLE'), (2008, 'DET')}"
+    }
+  ],
+  "passed": 8,
+  "total": 8,
+  "all_passed": true,
+  "note": "Offline structural checks only; source-level validation and play-by-play completeness remain separate."
+}

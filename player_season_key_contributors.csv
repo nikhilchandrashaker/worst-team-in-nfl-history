@@ -1,0 +1,19 @@
+season,team_abbr,player,position,games,games_started,pass_yards,pass_td,pass_int,rush_yards,rush_td,receiving_yards,receiving_td,receptions,combined_tackles,sacks,source_note
+2008,DET,Dan Orlovsky,QB,10,7,1616.0,8.0,8.0,29.0,0.0,0.0,0.0,0.0,0.0,0.0,Passing: 143/255; source PFR team page
+2008,DET,Daunte Culpepper,QB,5,5,786.0,4.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Passing: 60/115; source PFR team page
+2008,DET,Jon Kitna,QB,4,4,758.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Passing: 68/120; source PFR team page
+2008,DET,Drew Stanton,QB,3,0,119.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Passing: 9/17; source PFR team page
+2008,DET,Kevin Smith,RB,16,12,,,,976.0,8.0,286.0,0.0,39.0,,,Source PFR 2008 roster page
+2008,DET,Calvin Johnson,WR,16,16,,,,-1.0,0.0,1331.0,12.0,78.0,,,Source PFR 2008 roster page
+2008,DET,Shaun McDonald,WR,15,7,,,,,,332.0,1.0,35.0,,,Source PFR 2008 roster page
+2017,CLE,DeShone Kizer,QB,15,15,2894.0,11.0,22.0,419.0,5.0,0.0,0.0,0.0,9.0,0.0,Passing: 255/476; source PFR 2017 team page; 9 fumbles shown in defensive/fumbles table
+2017,CLE,Kevin Hogan,QB,4,1,517.0,4.0,5.0,,,,,,,,Passing: 46/75; source PFR 2017 team page
+2017,CLE,Cody Kessler,QB,3,0,126.0,0.0,1.0,,,,,,,,Passing: 11/23; source PFR 2017 team page
+2017,CLE,Isaiah Crowell,RB,16,16,,,,853.0,2.0,182.0,0.0,28.0,,,Source PFR 2017 team page
+2017,CLE,Duke Johnson,RB,16,0,,,,348.0,4.0,693.0,3.0,74.0,4.0,3.0,"Source PFR 2017 team page; fumbles 4, fumbles lost 3"
+2017,CLE,Seth DeValve,TE,16,4,,,,,,395.0,1.0,33.0,,,Source PFR 2017 team page
+2017,CLE,David Njoku,TE,16,5,,,,1.0,0.0,386.0,4.0,32.0,,,Source PFR 2017 team page
+2017,CLE,Ricardo Louis,WR,16,9,,,,,,357.0,0.0,27.0,,,Source PFR 2017 team page
+2017,CLE,Joe Schobert,LB,16,16,,,,,,,,,144.0,3.0,"Source PFR 2017 defense/fumbles table; 144 combined tackles, 3 sacks"
+2017,CLE,Christian Kirksey,LB,16,16,,,,,,,,,138.0,3.5,"Source PFR 2017 defense/fumbles table; 138 combined tackles, 3.5 sacks"
+2017,CLE,Jason McCourty,CB,14,14,,,,,,,,,65.0,0.0,"Source PFR 2017 defense/fumbles table; 3 interceptions, 14 passes defended"

@@ -1,0 +1,58 @@
+{
+  "scope": [
+    {
+      "team": "Detroit Lions",
+      "season": 2008,
+      "team_abbr": "DET",
+      "record": "0-16"
+    },
+    {
+      "team": "Cleveland Browns",
+      "season": 2017,
+      "team_abbr": "CLE",
+      "record": "0-16"
+    }
+  ],
+  "primary_findings": [
+    {
+      "finding": "Detroit had the worse raw point differential",
+      "evidence": "Detroit -249; Cleveland -176",
+      "interpretation": "Detroit was outscored by 73 more points across the season."
+    },
+    {
+      "finding": "Detroit's defense allowed more points and yards per play",
+      "evidence": "Detroit allowed 517 points and 6.4 opponent yards/play; Cleveland allowed 410 and 5.1",
+      "interpretation": "The strongest aggregate distinction is Detroit's defensive performance."
+    },
+    {
+      "finding": "Cleveland's offense had more volume but more ball-security problems",
+      "evidence": "Cleveland gained 4,942 yards and committed 41 turnovers; Detroit gained 4,292 yards and committed 29",
+      "interpretation": "Cleveland generated more total yards but gave the ball away 12 more times."
+    },
+    {
+      "finding": "Cleveland scored fewer points and had worse drive efficiency",
+      "evidence": "Cleveland 234 points and 22.0% drive scoring; Detroit 268 and 26.2%",
+      "interpretation": "More yardage did not translate to better scoring output."
+    },
+    {
+      "finding": "Both went 0-16, but not in the same way",
+      "evidence": "Both 0-16; Detroit point differential -249, Cleveland -176",
+      "interpretation": "The answer to 'which was worse' depends on whether the priority is overall margin/defense or turnovers/offensive conversion."
+    }
+  ],
+  "limits": [
+    "Raw play-by-play rows were not present in the source archive and could not be downloaded in this environment.",
+    "EPA/play, success rate, explosive-play rates, drive-by-drive outcomes, and complete player-season statistics are therefore not computed.",
+    "Selected player stats are not a complete roster-wide player panel.",
+    "League rank values are target-team ranks within the specified season, not an included all-team dataset.",
+    "The cross-season matchup row refers to Cleveland's 2017 game at Detroit; it is context, not a matchup between the two target-season teams."
+  ],
+  "source_pages": {
+    "2008 Detroit Lions": "https://www.pro-football-reference.com/teams/det/2008.htm",
+    "2008 Detroit Lions game log": "https://www.pro-football-reference.com/teams/det/2008/gamelog/",
+    "2017 Cleveland Browns": "https://www.pro-football-reference.com/teams/cle/2017.htm",
+    "2017 Cleveland Browns game log": "https://www.pro-football-reference.com/teams/cle/2017/gamelog/",
+    "nflverse play-by-play documentation": "https://nflreadr.nflverse.com/articles/nflverse_data_schedule.html",
+    "nflverse play-by-play raw data": "https://github.com/nflverse/nflverse-data/releases"
+  }
+}

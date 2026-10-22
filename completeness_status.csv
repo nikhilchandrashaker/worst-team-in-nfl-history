@@ -1,0 +1,14 @@
+component,coverage,status,research_implication
+Season aggregates,2 target team-season rows,Included,Only 2008 DET and 2017 CLE
+Regular-season game log,32 rows; 16 games per target,Included,Score and margin metrics; no play-level fields
+Situational efficiency,2 target rows,Included,Aggregate values inherited from source package
+Player statistics,Selected players only,Partial,Not a complete player-season panel
+Target-team league ranks,Target-team ranks only,Included,League-wide raw team panel excluded to keep scope focused
+EPA/play and success rate,Requires raw play-by-play,Not computed,Do not infer these from season totals
+Drive-by-drive outcomes,Requires raw play-by-play,Not computed,Aggregate drive scoring rates included separately
+Explosive plays,Requires raw play-by-play and threshold definitions,Not computed,Threshold must be defined before analysis
+Special teams,Not comprehensive,Partial/missing,No complete kicker/punter/returner performance panel
+Injuries/availability,No consistent source in this package,Missing,Not used to explain outcomes
+Historical all-time cohort,Outside requested scope,Excluded,No unrelated historical seasons included
+Cross-season matchup,2017 CLE at DET row,Included with caveat,Context only; different team-season pairings than target season definitions
+Integrity checks,Local structural checks,Included,These do not substitute for source-by-source validation

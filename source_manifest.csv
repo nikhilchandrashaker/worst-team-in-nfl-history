@@ -1,0 +1,8 @@
+dataset,source,scope,status,caveat
+team_season_summary.csv,Pro-Football-Reference team season pages,2008 DET; 2017 CLE,Existing source package aggregate transcription,Source values should be checked against linked source pages before publication
+team_game_logs.csv,Pro-Football-Reference team game logs,16 games each in 2008 DET and 2017 CLE,Existing source package game log; derived fields added here,No play-by-play; derived cumulative margins use the game rows
+situational_efficiency.csv,Pro-Football-Reference drive/situational summaries,2008 DET; 2017 CLE,Existing source package aggregate transcription,Definitions and rounding inherited from source
+selected_player_stats.csv,Player rows selected in existing source package,Both target team-seasons,Selected sample only,Not a full roster-wide player panel; do not treat as comprehensive player data
+direct_metric_comparison.csv,Derived from target team aggregates,Only the two target seasons,Metric differences calculated from supplied aggregate table,Metric definitions and units in definition_caveat column
+target_team_league_ranks.csv,Target team's rank in its own season,2008 DET; 2017 CLE,Target-only rows retained,No all-team panel included in this project
+Raw play-by-play,nflverse releases,2008 and 2017 only,Not downloaded in this environment,Download script included; play-level metrics are not claimed until built and validated

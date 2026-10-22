@@ -1,0 +1,9 @@
+season,target_team,weighting_scheme,badness_index,rank_worst_1
+2008,Detroit Lions,equal_4_metrics,2.0576214670209323,1
+2008,Detroit Lions,results_heavy,2.1387797087725726,1
+2008,Detroit Lions,offense_defense_only,2.003007003578021,1
+2008,Detroit Lions,rating_heavy,2.099904683236709,2
+2017,Cleveland Browns,equal_4_metrics,1.713357405339479,1
+2017,Cleveland Browns,results_heavy,1.738670102687482,1
+2017,Cleveland Browns,offense_defense_only,1.6660551853613463,1
+2017,Cleveland Browns,rating_heavy,1.7736640058725786,1

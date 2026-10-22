@@ -1,0 +1,9 @@
+check,passed,detail
+only_two_target_seasons,True,"[(2008, 'DET'), (2017, 'CLE')]"
+game_log_32_rows,True,32
+each_team_16_games,True,"{(2008, 'DET'): 16, (2017, 'CLE'): 16}"
+2008_DET_season_totals,True,expected PF/PA/PD=268/517/-249
+2008_DET_game_sums,True,PF/PA sums=268/517
+2017_CLE_season_totals,True,expected PF/PA/PD=234/410/-176
+2017_CLE_game_sums,True,PF/PA sums=234/410
+only_target_season_rows_player,True,"{(2017, 'CLE'), (2008, 'DET')}"
